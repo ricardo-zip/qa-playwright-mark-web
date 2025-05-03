@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name":"Read a book in TypeScript",
+        "is_done": false
+    },
+    "duplicate": {
+        "name":"Task duplicate test",
+        "is_done": false
+    },
+    "required": {
+        "name":"",
+        "is_done": false
+    },
+    "update": {
+        "name":"Pay credit card bill",
+        "is_done": false
+    },
+    "delete": {
+        "name": "Estudar Ruby",
+        "is_done": false
+    }
+}
